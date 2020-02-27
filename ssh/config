@@ -1,0 +1,5 @@
+
+    Host aliyun_code code.aliyun.com
+    Hostname code.aliyun.com
+    IdentityFile /Users/jacky/.boat_config/.ssh/boat_user_rsa
+    StrictHostKeyChecking no
